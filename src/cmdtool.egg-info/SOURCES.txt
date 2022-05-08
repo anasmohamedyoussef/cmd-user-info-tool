@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/cmdtool.egg-info/PKG-INFO
+src/cmdtool.egg-info/SOURCES.txt
+src/cmdtool.egg-info/dependency_links.txt
+src/cmdtool.egg-info/entry_points.txt
+src/cmdtool.egg-info/top_level.txt
